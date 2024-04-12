@@ -4,13 +4,13 @@ import webbrowser
 episodes = {
     "Film 1": {
         "Episode 1": "https://drive.google.com/file/d/1l27RRPsbQWAwp2iz4PBBcxmQmxrhuM_0/view",
-        "Episode 2": "https://www.example.com/video2",
-        "Episode 3": "https://www.example.com/video3"
+        "Episode 2": "https://drive.google.com/file/d/1l27RRPsbQWAwp2iz4PBBcxmQmxrhuM_0/view",
+        "Episode 3": "https://drive.google.com/file/d/1l27RRPsbQWAwp2iz4PBBcxmQmxrhuM_0/view"
     },
     "Film 2": {
-        "Episode 1": "https://www.example.com/video1",
-        "Episode 2": "https://www.example.com/video2",
-        "Episode 3": "https://www.example.com/video3"
+        "Episode 1": "https://drive.google.com/file/d/1l27RRPsbQWAwp2iz4PBBcxmQmxrhuM_0/view",
+        "Episode 2": "https://drive.google.com/file/d/1l27RRPsbQWAwp2iz4PBBcxmQmxrhuM_0/view",
+        "Episode 3": "https://drive.google.com/file/d/1l27RRPsbQWAwp2iz4PBBcxmQmxrhuM_0/view"
     }
 
 }
