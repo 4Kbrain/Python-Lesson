@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import turtle
 
 
@@ -18,7 +17,6 @@ t.write("hexagon", align="center", font=("Arial", 16, "normal"))
 t.hideturtle()
 
 
-=======
 import turtle
 
 
@@ -38,5 +36,4 @@ t.write("hexagon", align="center", font=("Arial", 16, "normal"))
 t.hideturtle()
 
 
->>>>>>> lazy/main
 turtle.done()
