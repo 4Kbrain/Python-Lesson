@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
     
     作られた Aditya Dwi Nugroho
@@ -94,7 +94,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-=======
+
 """
     
     作られた Aditya Dwi Nugroho
@@ -186,4 +186,4 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> lazy/main
+
