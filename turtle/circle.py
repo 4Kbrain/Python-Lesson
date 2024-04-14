@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import turtle
 
 def write_text(text):
@@ -30,7 +29,7 @@ write_text("circle")
 
 draw_circle(100)  
 
-=======
+
 import turtle
 
 def write_text(text):
@@ -62,5 +61,4 @@ write_text("circle")
 
 draw_circle(100)  
 
->>>>>>> lazy/main
 turtle.done()
