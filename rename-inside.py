@@ -1,7 +1,11 @@
 import os
 
 # Path to direct
+<<<<<<< HEAD
 directory = 'C:\\Users\\aditg\\OneDrive\\Dokumen\\uploads'
+=======
+directory = 'C:\\Users\\aditg\\OneDrive\\Dokumen\\ProjectSekai'
+>>>>>>> lazy/main
 
 for filename in os.listdir(directory):
     if '-' in filename:

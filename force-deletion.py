@@ -4,7 +4,11 @@ import os
 import subprocess
 
 # Folder path and its content to delete
+<<<<<<< HEAD
 folder_path = r'C:\Users\aditg\Downloads'
+=======
+folder_path = r'C:\Users\aditg\Downloads\freedom.v1.11'
+>>>>>>> lazy/main
 
 try:
     # shutil.rmtree to delete the folder and its contents
@@ -27,7 +31,11 @@ except PermissionError as e:
             except Exception as e:
                 print(f"Failed to delete {file_path}: {e}")
 
+<<<<<<< HEAD
     # deleting the folder again after attempting to force delete individual files
+=======
+    # Try deleting the folder again after attempting to force delete individual files
+>>>>>>> lazy/main
     try:
         shutil.rmtree(folder_path)
         print("Folder deleted successfully after attempting to force delete individual files.")
